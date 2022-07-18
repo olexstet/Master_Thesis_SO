@@ -1,0 +1,487 @@
+options:  {:version :txact, :n-workers 1, :n-secondary-workers 64, :n-reservations 1000, :n-relations 50, :n-queries 10, :password-work-factor 5}
+Total execution time: 10502.065 ms
+# started on Mon Jun 13 22:23:50 2022
+
+
+ Performance counter stats for 'system wide':
+
+            217,18 Joules power/energy-cores/                                         
+              4,94 Joules power/energy-ram/                                           
+              0,09 Joules power/energy-gpu/                                           
+            221,20 Joules power/energy-pkg/                                           
+
+      13,057361898 seconds time elapsed
+
+options:  {:version :txact, :n-workers 2, :n-secondary-workers 64, :n-reservations 1000, :n-relations 50, :n-queries 10, :password-work-factor 5}
+Total execution time: 5339.778 ms
+# started on Mon Jun 13 22:24:03 2022
+
+
+ Performance counter stats for 'system wide':
+
+            191,38 Joules power/energy-cores/                                         
+              3,44 Joules power/energy-ram/                                           
+              0,10 Joules power/energy-gpu/                                           
+            193,92 Joules power/energy-pkg/                                           
+
+       7,894312794 seconds time elapsed
+
+options:  {:version :txact, :n-workers 4, :n-secondary-workers 64, :n-reservations 1000, :n-relations 50, :n-queries 10, :password-work-factor 5}
+Total execution time: 2772.448 ms
+# started on Mon Jun 13 22:24:11 2022
+
+
+ Performance counter stats for 'system wide':
+
+            172,08 Joules power/energy-cores/                                         
+              2,66 Joules power/energy-ram/                                           
+              0,04 Joules power/energy-gpu/                                           
+            173,83 Joules power/energy-pkg/                                           
+
+       5,318915791 seconds time elapsed
+
+options:  {:version :txact, :n-workers 6, :n-secondary-workers 64, :n-reservations 1000, :n-relations 50, :n-queries 10, :password-work-factor 5}
+WARNING: number of reservations is not divisible by number of workers.
+Total execution time: 2138.461 ms
+# started on Mon Jun 13 22:24:17 2022
+
+
+ Performance counter stats for 'system wide':
+
+            165,48 Joules power/energy-cores/                                         
+              2,51 Joules power/energy-ram/                                           
+              0,04 Joules power/energy-gpu/                                           
+            167,04 Joules power/energy-pkg/                                           
+
+       4,700335550 seconds time elapsed
+
+options:  {:version :txact, :n-workers 8, :n-secondary-workers 64, :n-reservations 1000, :n-relations 50, :n-queries 10, :password-work-factor 5}
+Total execution time: 1679.226 ms
+# started on Mon Jun 13 22:24:21 2022
+
+
+ Performance counter stats for 'system wide':
+
+            137,38 Joules power/energy-cores/                                         
+              2,22 Joules power/energy-ram/                                           
+              0,05 Joules power/energy-gpu/                                           
+            138,80 Joules power/energy-pkg/                                           
+
+       4,214843650 seconds time elapsed
+
+options:  {:version :txact, :n-workers 10, :n-secondary-workers 64, :n-reservations 1000, :n-relations 50, :n-queries 10, :password-work-factor 5}
+Total execution time: 1568.591 ms
+# started on Mon Jun 13 22:24:26 2022
+
+
+ Performance counter stats for 'system wide':
+
+            127,00 Joules power/energy-cores/                                         
+              2,13 Joules power/energy-ram/                                           
+              0,04 Joules power/energy-gpu/                                           
+            128,36 Joules power/energy-pkg/                                           
+
+       4,131231695 seconds time elapsed
+
+options:  {:version :txact, :n-workers 12, :n-secondary-workers 64, :n-reservations 1000, :n-relations 50, :n-queries 10, :password-work-factor 5}
+WARNING: number of reservations is not divisible by number of workers.
+Total execution time: 1284.621 ms
+# started on Mon Jun 13 22:24:30 2022
+
+
+ Performance counter stats for 'system wide':
+
+            115,58 Joules power/energy-cores/                                         
+              2,00 Joules power/energy-ram/                                           
+              0,04 Joules power/energy-gpu/                                           
+            116,86 Joules power/energy-pkg/                                           
+
+       3,836442419 seconds time elapsed
+
+options:  {:version :txact, :n-workers 14, :n-secondary-workers 64, :n-reservations 1000, :n-relations 50, :n-queries 10, :password-work-factor 5}
+WARNING: number of reservations is not divisible by number of workers.
+Total execution time: 1206.968 ms
+# started on Mon Jun 13 22:24:34 2022
+
+
+ Performance counter stats for 'system wide':
+
+            108,91 Joules power/energy-cores/                                         
+              1,93 Joules power/energy-ram/                                           
+              0,04 Joules power/energy-gpu/                                           
+            110,14 Joules power/energy-pkg/                                           
+
+       3,760172416 seconds time elapsed
+
+options:  {:version :txact, :n-workers 16, :n-secondary-workers 64, :n-reservations 1000, :n-relations 50, :n-queries 10, :password-work-factor 5}
+WARNING: number of reservations is not divisible by number of workers.
+Total execution time: 1096.149 ms
+# started on Mon Jun 13 22:24:37 2022
+
+
+ Performance counter stats for 'system wide':
+
+            105,00 Joules power/energy-cores/                                         
+              1,89 Joules power/energy-ram/                                           
+              0,04 Joules power/energy-gpu/                                           
+            106,21 Joules power/energy-pkg/                                           
+
+       3,650997671 seconds time elapsed
+
+options:  {:version :txact, :n-workers 18, :n-secondary-workers 64, :n-reservations 1000, :n-relations 50, :n-queries 10, :password-work-factor 5}
+WARNING: number of reservations is not divisible by number of workers.
+Total execution time: 1018.078 ms
+# started on Mon Jun 13 22:24:41 2022
+
+
+ Performance counter stats for 'system wide':
+
+            100,92 Joules power/energy-cores/                                         
+              1,83 Joules power/energy-ram/                                           
+              0,04 Joules power/energy-gpu/                                           
+            102,11 Joules power/energy-pkg/                                           
+
+       3,579476600 seconds time elapsed
+
+options:  {:version :txact, :n-workers 20, :n-secondary-workers 64, :n-reservations 1000, :n-relations 50, :n-queries 10, :password-work-factor 5}
+Total execution time: 1005.029 ms
+# started on Mon Jun 13 22:24:45 2022
+
+
+ Performance counter stats for 'system wide':
+
+             99,75 Joules power/energy-cores/                                         
+              1,83 Joules power/energy-ram/                                           
+              0,03 Joules power/energy-gpu/                                           
+            100,93 Joules power/energy-pkg/                                           
+
+       3,593887592 seconds time elapsed
+
+options:  {:version :txact, :n-workers 22, :n-secondary-workers 64, :n-reservations 1000, :n-relations 50, :n-queries 10, :password-work-factor 5}
+WARNING: number of reservations is not divisible by number of workers.
+Total execution time: 890.735 ms
+# started on Mon Jun 13 22:24:49 2022
+
+
+ Performance counter stats for 'system wide':
+
+             92,15 Joules power/energy-cores/                                         
+              1,71 Joules power/energy-ram/                                           
+              0,04 Joules power/energy-gpu/                                           
+             93,28 Joules power/energy-pkg/                                           
+
+       3,450761751 seconds time elapsed
+
+options:  {:version :txact, :n-workers 24, :n-secondary-workers 64, :n-reservations 1000, :n-relations 50, :n-queries 10, :password-work-factor 5}
+WARNING: number of reservations is not divisible by number of workers.
+Total execution time: 864.751 ms
+# started on Mon Jun 13 22:24:52 2022
+
+
+ Performance counter stats for 'system wide':
+
+             91,85 Joules power/energy-cores/                                         
+              1,71 Joules power/energy-ram/                                           
+              0,02 Joules power/energy-gpu/                                           
+             92,96 Joules power/energy-pkg/                                           
+
+       3,426619588 seconds time elapsed
+
+options:  {:version :txact, :n-workers 26, :n-secondary-workers 64, :n-reservations 1000, :n-relations 50, :n-queries 10, :password-work-factor 5}
+WARNING: number of reservations is not divisible by number of workers.
+Total execution time: 860.822 ms
+# started on Mon Jun 13 22:24:56 2022
+
+
+ Performance counter stats for 'system wide':
+
+             87,49 Joules power/energy-cores/                                         
+              1,70 Joules power/energy-ram/                                           
+              0,03 Joules power/energy-gpu/                                           
+             88,60 Joules power/energy-pkg/                                           
+
+       3,388649693 seconds time elapsed
+
+options:  {:version :txact, :n-workers 28, :n-secondary-workers 64, :n-reservations 1000, :n-relations 50, :n-queries 10, :password-work-factor 5}
+WARNING: number of reservations is not divisible by number of workers.
+Total execution time: 846.404 ms
+# started on Mon Jun 13 22:24:59 2022
+
+
+ Performance counter stats for 'system wide':
+
+             89,44 Joules power/energy-cores/                                         
+              1,67 Joules power/energy-ram/                                           
+              0,05 Joules power/energy-gpu/                                           
+             90,54 Joules power/energy-pkg/                                           
+
+       3,405757138 seconds time elapsed
+
+options:  {:version :txact, :n-workers 30, :n-secondary-workers 64, :n-reservations 1000, :n-relations 50, :n-queries 10, :password-work-factor 5}
+WARNING: number of reservations is not divisible by number of workers.
+Total execution time: 787.218 ms
+# started on Mon Jun 13 22:25:03 2022
+
+
+ Performance counter stats for 'system wide':
+
+             86,46 Joules power/energy-cores/                                         
+              1,65 Joules power/energy-ram/                                           
+              0,02 Joules power/energy-gpu/                                           
+             87,54 Joules power/energy-pkg/                                           
+
+       3,396028759 seconds time elapsed
+
+options:  {:version :txact, :n-workers 32, :n-secondary-workers 64, :n-reservations 1000, :n-relations 50, :n-queries 10, :password-work-factor 5}
+WARNING: number of reservations is not divisible by number of workers.
+Total execution time: 772.709 ms
+# started on Mon Jun 13 22:25:06 2022
+
+
+ Performance counter stats for 'system wide':
+
+             86,51 Joules power/energy-cores/                                         
+              1,64 Joules power/energy-ram/                                           
+              0,03 Joules power/energy-gpu/                                           
+             87,59 Joules power/energy-pkg/                                           
+
+       3,341870659 seconds time elapsed
+
+options:  {:version :txact, :n-workers 34, :n-secondary-workers 64, :n-reservations 1000, :n-relations 50, :n-queries 10, :password-work-factor 5}
+WARNING: number of reservations is not divisible by number of workers.
+Total execution time: 714.618 ms
+# started on Mon Jun 13 22:25:09 2022
+
+
+ Performance counter stats for 'system wide':
+
+             82,64 Joules power/energy-cores/                                         
+              1,61 Joules power/energy-ram/                                           
+              0,04 Joules power/energy-gpu/                                           
+             83,71 Joules power/energy-pkg/                                           
+
+       3,281211842 seconds time elapsed
+
+options:  {:version :txact, :n-workers 36, :n-secondary-workers 64, :n-reservations 1000, :n-relations 50, :n-queries 10, :password-work-factor 5}
+WARNING: number of reservations is not divisible by number of workers.
+Total execution time: 699.977 ms
+# started on Mon Jun 13 22:25:13 2022
+
+
+ Performance counter stats for 'system wide':
+
+             82,19 Joules power/energy-cores/                                         
+              1,60 Joules power/energy-ram/                                           
+              0,04 Joules power/energy-gpu/                                           
+             83,25 Joules power/energy-pkg/                                           
+
+       3,262670849 seconds time elapsed
+
+options:  {:version :txact, :n-workers 38, :n-secondary-workers 64, :n-reservations 1000, :n-relations 50, :n-queries 10, :password-work-factor 5}
+WARNING: number of reservations is not divisible by number of workers.
+Total execution time: 710.069 ms
+# started on Mon Jun 13 22:25:16 2022
+
+
+ Performance counter stats for 'system wide':
+
+             82,65 Joules power/energy-cores/                                         
+              1,58 Joules power/energy-ram/                                           
+              0,01 Joules power/energy-gpu/                                           
+             83,68 Joules power/energy-pkg/                                           
+
+       3,253357947 seconds time elapsed
+
+options:  {:version :txact, :n-workers 40, :n-secondary-workers 64, :n-reservations 1000, :n-relations 50, :n-queries 10, :password-work-factor 5}
+Total execution time: 752.829 ms
+# started on Mon Jun 13 22:25:20 2022
+
+
+ Performance counter stats for 'system wide':
+
+             83,62 Joules power/energy-cores/                                         
+              1,58 Joules power/energy-ram/                                           
+              0,04 Joules power/energy-gpu/                                           
+             84,70 Joules power/energy-pkg/                                           
+
+       3,301023205 seconds time elapsed
+
+options:  {:version :txact, :n-workers 42, :n-secondary-workers 64, :n-reservations 1000, :n-relations 50, :n-queries 10, :password-work-factor 5}
+WARNING: number of reservations is not divisible by number of workers.
+Total execution time: 724.098 ms
+# started on Mon Jun 13 22:25:23 2022
+
+
+ Performance counter stats for 'system wide':
+
+             81,99 Joules power/energy-cores/                                         
+              1,57 Joules power/energy-ram/                                           
+              0,05 Joules power/energy-gpu/                                           
+             83,06 Joules power/energy-pkg/                                           
+
+       3,288315374 seconds time elapsed
+
+options:  {:version :txact, :n-workers 44, :n-secondary-workers 64, :n-reservations 1000, :n-relations 50, :n-queries 10, :password-work-factor 5}
+WARNING: number of reservations is not divisible by number of workers.
+Total execution time: 732.494 ms
+# started on Mon Jun 13 22:25:26 2022
+
+
+ Performance counter stats for 'system wide':
+
+             82,97 Joules power/energy-cores/                                         
+              1,60 Joules power/energy-ram/                                           
+              0,02 Joules power/energy-gpu/                                           
+             84,02 Joules power/energy-pkg/                                           
+
+       3,285825948 seconds time elapsed
+
+options:  {:version :txact, :n-workers 46, :n-secondary-workers 64, :n-reservations 1000, :n-relations 50, :n-queries 10, :password-work-factor 5}
+WARNING: number of reservations is not divisible by number of workers.
+Total execution time: 876.696 ms
+# started on Mon Jun 13 22:25:30 2022
+
+
+ Performance counter stats for 'system wide':
+
+             90,12 Joules power/energy-cores/                                         
+              1,66 Joules power/energy-ram/                                           
+              0,02 Joules power/energy-gpu/                                           
+             91,23 Joules power/energy-pkg/                                           
+
+       3,496568264 seconds time elapsed
+
+options:  {:version :txact, :n-workers 48, :n-secondary-workers 64, :n-reservations 1000, :n-relations 50, :n-queries 10, :password-work-factor 5}
+WARNING: number of reservations is not divisible by number of workers.
+Total execution time: 695.266 ms
+# started on Mon Jun 13 22:25:33 2022
+
+
+ Performance counter stats for 'system wide':
+
+             81,88 Joules power/energy-cores/                                         
+              1,58 Joules power/energy-ram/                                           
+              0,03 Joules power/energy-gpu/                                           
+             82,94 Joules power/energy-pkg/                                           
+
+       3,280446670 seconds time elapsed
+
+options:  {:version :txact, :n-workers 50, :n-secondary-workers 64, :n-reservations 1000, :n-relations 50, :n-queries 10, :password-work-factor 5}
+Total execution time: 692.229 ms
+# started on Mon Jun 13 22:25:37 2022
+
+
+ Performance counter stats for 'system wide':
+
+             80,79 Joules power/energy-cores/                                         
+              1,58 Joules power/energy-ram/                                           
+              0,04 Joules power/energy-gpu/                                           
+             81,86 Joules power/energy-pkg/                                           
+
+       3,272638293 seconds time elapsed
+
+options:  {:version :txact, :n-workers 52, :n-secondary-workers 64, :n-reservations 1000, :n-relations 50, :n-queries 10, :password-work-factor 5}
+WARNING: number of reservations is not divisible by number of workers.
+Total execution time: 762.346 ms
+# started on Mon Jun 13 22:25:40 2022
+
+
+ Performance counter stats for 'system wide':
+
+             85,39 Joules power/energy-cores/                                         
+              1,61 Joules power/energy-ram/                                           
+              0,04 Joules power/energy-gpu/                                           
+             86,48 Joules power/energy-pkg/                                           
+
+       3,349638389 seconds time elapsed
+
+options:  {:version :txact, :n-workers 54, :n-secondary-workers 64, :n-reservations 1000, :n-relations 50, :n-queries 10, :password-work-factor 5}
+WARNING: number of reservations is not divisible by number of workers.
+Total execution time: 694.648 ms
+# started on Mon Jun 13 22:25:43 2022
+
+
+ Performance counter stats for 'system wide':
+
+             81,03 Joules power/energy-cores/                                         
+              1,57 Joules power/energy-ram/                                           
+              0,02 Joules power/energy-gpu/                                           
+             82,08 Joules power/energy-pkg/                                           
+
+       3,257761072 seconds time elapsed
+
+options:  {:version :txact, :n-workers 56, :n-secondary-workers 64, :n-reservations 1000, :n-relations 50, :n-queries 10, :password-work-factor 5}
+WARNING: number of reservations is not divisible by number of workers.
+Total execution time: 648.953 ms
+# started on Mon Jun 13 22:25:47 2022
+
+
+ Performance counter stats for 'system wide':
+
+             79,05 Joules power/energy-cores/                                         
+              1,53 Joules power/energy-ram/                                           
+              0,03 Joules power/energy-gpu/                                           
+             80,08 Joules power/energy-pkg/                                           
+
+       3,181506055 seconds time elapsed
+
+options:  {:version :txact, :n-workers 58, :n-secondary-workers 64, :n-reservations 1000, :n-relations 50, :n-queries 10, :password-work-factor 5}
+WARNING: number of reservations is not divisible by number of workers.
+Total execution time: 630.615 ms
+# started on Mon Jun 13 22:25:50 2022
+
+
+ Performance counter stats for 'system wide':
+
+             78,10 Joules power/energy-cores/                                         
+              1,52 Joules power/energy-ram/                                           
+              0,04 Joules power/energy-gpu/                                           
+             79,14 Joules power/energy-pkg/                                           
+
+       3,170455981 seconds time elapsed
+
+options:  {:version :txact, :n-workers 60, :n-secondary-workers 64, :n-reservations 1000, :n-relations 50, :n-queries 10, :password-work-factor 5}
+WARNING: number of reservations is not divisible by number of workers.
+Total execution time: 722.779 ms
+# started on Mon Jun 13 22:25:53 2022
+
+
+ Performance counter stats for 'system wide':
+
+             81,84 Joules power/energy-cores/                                         
+              1,60 Joules power/energy-ram/                                           
+              0,03 Joules power/energy-gpu/                                           
+             82,91 Joules power/energy-pkg/                                           
+
+       3,302442289 seconds time elapsed
+
+options:  {:version :txact, :n-workers 62, :n-secondary-workers 64, :n-reservations 1000, :n-relations 50, :n-queries 10, :password-work-factor 5}
+WARNING: number of reservations is not divisible by number of workers.
+Total execution time: 690.633 ms
+# started on Mon Jun 13 22:25:57 2022
+
+
+ Performance counter stats for 'system wide':
+
+             80,49 Joules power/energy-cores/                                         
+              1,54 Joules power/energy-ram/                                           
+              0,02 Joules power/energy-gpu/                                           
+             81,52 Joules power/energy-pkg/                                           
+
+       3,219647258 seconds time elapsed
+
+options:  {:version :txact, :n-workers 64, :n-secondary-workers 64, :n-reservations 1000, :n-relations 50, :n-queries 10, :password-work-factor 5}
+WARNING: number of reservations is not divisible by number of workers.
+Total execution time: 638.379 ms
+# started on Mon Jun 13 22:26:00 2022
+
+
+ Performance counter stats for 'system wide':
+
+             79,05 Joules power/energy-cores/                                         
+              1,52 Joules power/energy-ram/                                           
+              0,03 Joules power/energy-gpu/                                           
+             80,07 Joules power/energy-pkg/                                           
+
+       3,182022299 seconds time elapsed
+
