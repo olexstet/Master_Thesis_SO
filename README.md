@@ -1,4 +1,4 @@
-# Master_Thesis: Software-based energy efficiency analysis: benchmarks and assessment methods
+# Master Thesis: Software-based energy efficiency analysis: benchmarks and assessment methods
  
 This repository contains all the data and experiments related to master thesis. 
 
