@@ -24,3 +24,4 @@ For running an experiment, the following has to be done:
 
 Remarks: As experiments take a lot of time to execute, the decision was taken to execute them one by one and not creating a script that allow to run everything at once. 
 
+For more explanations about the Vacation2, execution and results can be read in the thesis munuscript. 
