@@ -22,5 +22,5 @@ For running an experiment, the following has to be done:
 6'. If you want to generate graphs and tables for single experiment, then in processing.py modify the pc_paths and experiment_paths ( comment or remove unuseful ones).
 7. Processing.py script will take some minutes to generate the results which can be found here as exemple: https://github.com/olexstet/Master_Thesis_SO/tree/main/Experiments/Linux-PF0222/Experiment1/Visualization. 
 
-Remarks: As experiment take a lot of time to execute, the decision was taken to execute them one by one and not creating a script that allow to run everything at once. 
+Remarks: As experiments take a lot of time to execute, the decision was taken to execute them one by one and not creating a script that allow to run everything at once. 
 
