@@ -1,3 +1,4 @@
+#Author: Stetsenko Olexandr 
 #Libraries
 import os
 import shutil
